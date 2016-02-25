@@ -1,2 +1,3 @@
 # study
 function test....etc...
+新しく変更を追加しました。これをlocalリポジトリで取得するにはpullします？
